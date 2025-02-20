@@ -40,6 +40,11 @@
 		}
 	},
 	"languages": {
+		"neo": {
+			"title": "Neo",
+			"path": "components/prism-neo.js",
+			"owner": "makichiis"
+		},
 		"meta": {
 			"path": "components/prism-{id}",
 			"noCSS": true,
